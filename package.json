@@ -1,0 +1,21 @@
+{
+  "name": "devin-zimmerman",
+  "version": "1.0.0",
+  "description": "Main repo for all things Devin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzimmerman902/devin-zimmerman.git"
+  },
+  "keywords": ["portfolio"],
+  "author": "Devin Zimmerman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzimmerman902/devin-zimmerman/issues"
+  },
+  "homepage": "https://github.com/dzimmerman902/devin-zimmerman#readme",
+  "dependencies": {}
+}
